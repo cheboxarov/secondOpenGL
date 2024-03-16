@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.fsh</file>
+        <file>main.vsh</file>
+        <file>skybox.fsh</file>
+        <file>skybox.vsh</file>
+    </qresource>
+</RCC>

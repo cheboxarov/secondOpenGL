@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/rabbit/Rabbit_Lowpoly_1.obj</file>
+        <file>models/rabbit/Rabbit_Lowpoly_2.obj</file>
+        <file>models/rabbit/Rabbit_Lowpoly_3.obj</file>
+    </qresource>
+</RCC>
